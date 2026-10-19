@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>jissyu1</title>
+  </head>
+  <body>
+    <h1>ピックアップスイーツ</h1>
+    <p>今月の厳選スイーツを紹介します。</p>
+    <h2>黒糖のマカロン</h2>
+    <p>当店のマカロンの素材は厳選した</p>
+    <h3>モンブラン</h3>
+    <p>今年採れた国内産の栗を使用したケーキです。</p>
+    <img src="Images/blanc1.jpg" alt="syasinn">
+  </body>
+</html>
