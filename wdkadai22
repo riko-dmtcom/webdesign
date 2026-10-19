@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>sample26</title>
+  </head>
+  <body>
+    <h1>ピックアップスイーツ</h1>
+    <p>今月の今月のお勧めスイーツを3つ紹介します。</p>
+    <ul>
+    <li><a href=https://www.google.com/?client=safari&channel=ipad_bm</a></li>
+      <li><a href=https://www.yahoo.co.jp</a></li>
+      <li><a href=https://www.bing.com/?cc=jp</a></li>
+    </ul>
+  </body>
+</html>
