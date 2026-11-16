@@ -1,4 +1,4 @@
- <meta charset="UTF-8">
+ <@charset="UTF-8">
        /* ページ全体　CSS */
        body{font-size:16px;
          background-color:ivory;
@@ -21,5 +21,4 @@
       h3{font-size:20px;color:brown;}
       /* フッター　CSS */
       footer{clear:both;width:600px;padding:20px;text¥align:right;background-color:peru;}
-      </style>
  
