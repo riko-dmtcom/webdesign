@@ -8,7 +8,8 @@
       h1,h2,h3,ul,li,p{margin:0;padding:0;}
        /* ヘッダー　CSS */
        header{width:640px;background-color:bisque;}
-       h1{margin-left:20px;font-size:32px;color:crimson;}
+       h1{margin-left:20px;font-size:48px;
+          font-family: "BBH Bogle", sans-serif;:crimson;}
       header p{margin-left:20px;}
        /*ナビゲーション　CSS */
        nav{padding-top:5px;padding-bottom:5px;background-color:burlywood;}
