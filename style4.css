@@ -3,9 +3,9 @@
 <@charset="UTF-8">
        /* ページ全体　CSS */
        body{font-size:16px;
-         background-color:ivory;
-         background-image:url(Images/gold_back.jpg);
-         background-repeat:repeat-y;}
+            background-color:ivory;
+            background-image:url(Images/gold_back.jpg);
+            background-repeat:repeat-y;}
       /*リセット　CSS */
       h1,h2,h3,ul,li,p{margin:0;padding:0;}
        /* ヘッダー　CSS */
