@@ -15,7 +15,7 @@
       nav ul{list-style-type:none;}
       nav li{width:100px;height:38px;margin-right:10px;padding:5px;line-height:38px;float:left;border:solid 1px brown;background-color:bisque;}
       /* メインコンテンツ　CSS */
-      main{width:100px;padding-top:10px;padding-bottom:10px;padding-left:20px;background-color:antiquewhite;overflow:hidden;}
+      main{clear:both;width:100px;padding-top:10px;padding-bottom:10px;padding-left:20px;background-color:antiquewhite;overflow:hidden;}
       h2{font-size:24px;color:darkred;}
       .sweets{width:270px;padding:10px;margin-right:20px;float:left;background-color:burlywood;}
       h3{font-size:20px;color:brown;}
