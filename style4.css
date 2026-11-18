@@ -1,4 +1,4 @@
-@charset"UTF-8";
+@charset "UTF-8";
        /* ページ全体　CSS */
        body{font-size:16px;
             background-color:ivory;
@@ -15,11 +15,11 @@
       nav ul{display:flex;list-style-type:none;}
       nav li{width:185px;height:38px;margin-right:10px;padding:5px;line-height:38px;float:left;border:solid 1px brown;background-color:bisque;}
       /* メインコンテンツ　CSS */
-      main{clear:both;width:630px;padding-top:10px;padding-bottom:10px;padding-left:10px;background-color:antiquewhite;overflow:hidden;}
+main{clear:both;width:630px;padding-top:10px;padding-bottom:10px;padding-left:10px;background-color:antiquewhite;overflow:hidden;}
       h2{font-size:24px;color:darkred;}
       .sweets{width:200px;margin-top:20px;margin-right:10px;float:left;background-color:burlywood;}
       .sweets img{display:block;}
       h3{font-size:20px;color:brown;}
       /* フッター　CSS */
-      footer{clear:both;width:600px;padding:20px;text¥align:right;background-color:peru;}
+      footer{clear:both;width:600px;padding:20px;rext-align:right;background-color:peru;}
  
